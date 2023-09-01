@@ -4,7 +4,6 @@
 ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-orange)
 ![iOS Badge](https://img.shields.io/badge/iOS-15.0+-blue.svg)
 ![JSON Badge](https://img.shields.io/badge/Storage-JSON-yellow)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Table of Contents
 

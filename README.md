@@ -19,7 +19,6 @@
 
 TaskManager is a SwiftUI-based iOS application designed for task management. Categorize your tasks into "Working On", "To Do", and "Done" sections and manage your daily activities with ease. This project leverages the MVVM architecture and uses JSON encoding to save data to a text file.
 
-![App Screenshot](./docs/screenshot.png)
 
 ## Features
 
